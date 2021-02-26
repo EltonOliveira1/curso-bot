@@ -1,0 +1,23 @@
+{
+  "name": "curso-bot",
+  "version": "1.0.0",
+  "description": "Curso de Bot com node da Cod3r",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EltonOliveira1/curso-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EltonOliveira1/curso-bot/issues"
+  },
+  "homepage": "https://github.com/EltonOliveira1/curso-bot#readme",
+  "dependencies": {
+    "telegraf": "3.17.3"
+  }
+}
